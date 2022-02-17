@@ -1502,3 +1502,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.17-13.38.51:786][608]LogPhysics: Warning: Scale for /Game/Map/MainMap1-1.MainMap1-1:PersistentLevel.GoomBaBP_2.Goomba has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
 [2022.02.17-13.38.51:786][608]LogPhysics: Warning: Scale for /Game/Map/MainMap1-1.MainMap1-1:PersistentLevel.GoomBaBP_2.DeathShape has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.100
 [2022.02.17-13.38.51:786][608]LogPhysics: Warning: Scale for /Game/Map/MainMap1-1.MainMap1-1:PersistentLevel.GoomBaBP_2.DeathShape has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.100
+[2022.02.17-13.48.45:938][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.02.17-13.48.45:959][908]LogSavePackage: Moving '../../../../../../Users/pansu/OneDrive/Documents/Unreal Projects/SuperPunkBros2/SuperPunkBros/Saved/MainMap1-1_Auto109824F994B19DB210FC363A8FC0ED823.tmp' to '../../../../../../Users/pansu/OneDrive/Documents/Unreal Projects/SuperPunkBros2/SuperPunkBros/Saved/Autosaves/Game/Map/MainMap1-1_Auto1.umap'
+[2022.02.17-13.48.45:961][908]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/MainMap1-1' took 0.053
+[2022.02.17-13.48.45:961][908]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2022.02.17-13.49.25:861][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Brique/ChampiBP.ChampiBP
+[2022.02.17-13.49.26:175][ 55]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.ChampiBP_C_0.Champi has a component set to zero, which will result in a bad body instance. Scale:X=0.430 Y=0.000 Z=0.430
+[2022.02.17-13.49.26:176][ 55]LogPhysics: Warning: Scale for /Engine/Transient.World_6:PersistentLevel.ChampiBP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.719 Y=0.000 Z=0.750
